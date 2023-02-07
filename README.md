@@ -1,6 +1,8 @@
 Phpuri
 =========
 
+A fork of the phpuri package. Other distros for some reason have been deleted, hence this alternative fork.
+
 A php library for converting relative urls to absolute.
 
 ```php
