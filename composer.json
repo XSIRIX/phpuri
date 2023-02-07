@@ -1,7 +1,7 @@
 {
     "name": "xsirix/phpuri",
 	"type": "project",
-	"version": "1.0",
+	"version": "1.0.1",
     "description": "A php library for converting relative urls to absolute.",
 	"autoload" : {
 		"files": [
